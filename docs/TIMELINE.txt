@@ -1,0 +1,260 @@
+BW: Before Wesnoth
+YW: Years Wesnoth
+
+==Timeline of Irdya==
+
+This is meant to be a list of the historical events of Irdya that took place before the Kingdom of Wesnoth was ever established as well as many events related to the Great Continent and Irdya. It is not official but provides enough details for any curious UMC creator. 
+
+===Locations===
+
+====Great Continent====
+This is Irdya's largest known continent. However, only a small portion of it has been explored.
+
+=====The Sandy Wastes=====
+This is a great desert that exists between Wesnoth and the Silver Lands. It is rumoured that the Khalifate, a faction of Haldric's people that were separated and compelled to adapt to the barren conditions, may reside in settlements here. However, there is no evidence of their existence.
+
+=====The Silver Lands=====
+The community lying to the east of Wesnoth is known as the Silver Lands. At its north, lies the southeastern part of the Lins-Elen (Lintair Forest) and the Eventide cities of Noct and Diurna, a volcano known as the Fire Cloud Peak that is home to the Silver Drakes and Ssyuriss Fenn, a swamp home to the hyena-like Gnolls and saurian tribes. The Bitter Swamp and the Sandy Wastes desert separate this region from Wesnoth. The Triththa Mountains lie at its heart and is the home of the Dwarves of Triththa. Lake Aoir lies to the South and the Minotaur country is situated around this lake.
+
+Explorers say that this may be the eastern edge of the Great Continent, but no evidence has supported their stories...yet. 
+ 
+=====Kingdom of Wesnoth=====
+
+This is the most prominent kingdom in Irdya, almost associated with the entire western part of the Continent. Its capital is Weldyn located at the kingdom's eastern regions. Its most significant city is Dan'Tonk.
+
+[[Timeline of Wesnoth]]
+
+[[Geography of Wesnoth]]
+
+=====Elensefar=====
+
+A lorddom near Wesnoth's western border. This city state is sometimes a part of Wesnoth or sometimes considered to be an independent nation. Either way, it has been an ally of Wesnoth almost throughout its history.
+
+=====The Northlands=====
+The region lying between the northern shore of the Great River and the south of the Heart Mountains is known as the Northlands. Notable locations include Wesmere Forest, home of the Kalian council, and Dwarven Doors.
+
+=====The Far North=====
+The region beyond the Heart Mountains is known as the Far North. This is home mostly to the orcish tribes, although a xenophobic faction of elves reside within the Silent Forest in the aftermath of the First Elven Civil War.
+
+=====The Far South=====
+The region that lies beyond the southern border of Wesnoth and the Aethenwood is known as the Far South. There is no factual account of what actually exists here, but many adventurers who had opportunity to explore the region state there is only a vast desert known as the Ashland Desert, which is actually an extension of the Sandy Wastes.
+----
+
+====Arkenova====
+A vast island, directly west from the Far North region of the Great Continent, and separated from the mainland by the Great Ocean. It is considered by most explorers as a small continent. 
+----
+
+====Argea====
+
+The actual name of the continent that is referred in Wesfolk lore as the Old Continent. It is smaller than the Great Continent but, no data has ever confirmed this. This land was where Haldric's people first originated from. The human Empire of Anaktoran was once a glorious empire, stretching from the eastern edge of the continent to the very heart of it. The western parts are orcish homelands and some Minotaurs are also seen in these regions. The Orcs reside in the hills, while the Minotaurs reside in the forests. It is not confirmed what lies at its northern shores but the southern one is the location of a vast forest. Not many things about this forest are known, save for the fact that it is rumoured to be the abode of many strange creatures — abominations and undead-like begins. King Dowrein I, the first king ever to lead an expedition to the forest and survive its ordeal, named the forest the '''Forest of Nightmares'''. The far southern part of this mainland is completely unknown, with no records of it may be situated there. 
+----
+
+====The Green Isle====
+A large island lying somewhere on the Great Ocean, between the landmasses of Argea and the Great Continent (Argh! Somebody please make a better name this!). It is thought to be the place where the Wose first came into existence (the evidence backing this up is very fragile and thus, could be ignored).
+
+The central and southern area are home to the Isle-folk (Halric's people) — descendants of the refugees from Anaktoran who initially settled there - and over time these Isle-folk settlements had developed into small cities such Southbay, Stormvale and Clearwater. Decades later, the Wesfolk, led by Jevyan, arrive in the northern shores of the Green Isle and a lengthy war is fought between the two sides. The Isle-folk prevail, pushing the Wesfolk to settle in small communities, although two of these settlements developed into cities, namely Jevyan's Haven and Blackmore.
+
+The natives of the Green Isle are seldom encountered and are thought to reside in locations that were never explored before, namely the northern regions, excluding the location of Jevyan's Haven. The very few people who had crossed paths with these natives refer to them as a nobility. Despite the natives demonstrating themselves as a noble race, they remain as minor settlements who are at a fragile peace and wars are common between them. The natives have a taste for herbal remedies, fire magic, and their skills with weapons such as swords, bows and spears are somewhat fascinating. Centuries later, they were eventually called the Aragwaithi.
+
+In the exodus of Haldric's people and the Wesfolk from the Green Isle, only the Aragwaithi remained there, since they were not willing to leave their homeland and most kingdoms went into hiding, to locations where the orcs would seldom look.
+----
+
+====Lands of the Icy North====
+The northern most landmass of Irdya, or in simple terms, the 'North Pole.' This region has long been the home of the Windsong Foundation however, neither the foundation's exact location nor its existence has been confirmed.
+----
+
+====Unknown Landmass====
+Located somewhere between the landmasses of Argea and the Great Continent and perpetually surrounded by the endless ocean, the land was divided evenly between two nations - the Celestials and the Ceresians - in a forgotten era. At the heart of the continent, there is a vast mountain which has a legend centred around it. The mythos stated that the remains of Mor-Inal were kept deep inside the core of the mountain however, the legend was largely dismissed by both Ceresians and Celestials.
+----
+
+===Timeline:===
+----
+
+===== Circa ~5000 BW : The First Elemental War =====
+* Five prominent kingdoms/empires rule throughout Irdya, the names of these kingdoms/empires were never found. Mor-Inal, the first head of the Chaplain of Darkness and ruler of one of the kingdoms, commissions Moradin of the Dwarves to create a sceptre of unsurpassed power.
+* The Sceptre of Power is crafted after 70 years of hard-work and research.
+* Mor-Inal declares war on the other kingdoms, unleashing his undead and elemental warriors.
+* The Empire situated at Arkenova falls. Emperor Kaliban is slain in battle by Mor-Inal. Mor-Inal execrates Kaliban and his army to fight for him in undeath.
+* The remaining three kingdoms/empires unite against Mor-Inal, forming the first ever Alliance of Irdya.
+* Various battles at different locations of Irdya destroy the lands, reshaping it in many cases.
+* The remaining three kingdoms/empires are vanquished by Mor-Inal. Mor-Inal's apprentice, Vaddyn, realises what a monster his master had become and ambushes Mor-Inal with his army. Mor-Inal is destroyed; his sceptre is disassembled.
+* Vaddyn decides that the gemstones of Power (Dragon Eye, White Sapphire, Dark Emerald, Opal of Air) must be dispersed throughout Irdya to prevent the occurrence of a second catastrophic war. He transforms the Dragon Eye into a feral dragon and allows it to leave; the Opal of Air is granted to the survivors of the three kingdoms, who eventually end up being the Eltireans; the Dark Emerald is hidden underneath the Southern Mountains of the Great Continent; and finally, Vaddyn takes the White Sapphire and places it within the Realm of Fire, confident of the protectorship of the Fire Elementals.
+* Survivors of the Five Kingdoms spilt into numerous groups and go there separate ways.
+
+===== Circa ~4200 BW : Creation of the Vampires =====
+* Human nation of Dhagonth, situated at a considerably substantial distance eastwards from the Lins-Elen begin experimentation with blood magic, which eventually leads to the creation of the vampires. The vampiric 'disease' engulfs the city like a plague and a point is reached where the vampires have seized authority and the remaining humans are degraded to serfs.
+
+===== 4100 BW : Rise of the Wargs =====
+* A human community, located deep inside the vast forests adjacent to the mountains of Triththa, encounter a lich and her undead army. They eradicate the monstrosity but as she swept into the death realm, she placed a powerful curse on the community. This curse transformed the humans into wolflike creatures, giving birth to the Wargs. Due to their wolflike instincts, the unity of the community dissolve and some Warg packs end up leaving the forest. However, the majority of their populace are there, unable to leave due to the abundant game.
+
+===== 4000 BW - 3200 BW : Battle of the Supernaturals =====
+* Frequent battles between the wargs and the vampires lead to an all-out war between the two races. The battle rages on for centuries and eventually reaches a stalemate with neither side gaining the upper hand.
+* Greater hostilities gradually cease however, there are frequent skirmishes between them.
+
+===== 3800 BW =====
+* Vampiric settlers arrive at the southeastern shores of Arkenova, naming it the Peninsula of Ichor.
+
+===== 3500 BW : Origins of the Minotaurs =====
+* Human settlement of Karkas, somewhere near the Flamebreath Desert, is struck by droughts and famine, resulting in a multitude of deaths. The humans find cattle and consider the bulls to be deities: an action which causes their original deity to become infuriated and she curses the humans, transforming them into the Minotaurs, half-human and half-bull.
+* As a means of communicating with their god, their deity created 3 crystals: allowing only a Minotaur king or an apostle to use them.
+
+===== Circa ~2800 BW =====
+* Elves inhabit Lin-Elens (Lintair Forest).
+* Minotaurs start residing on the plains around the Lake Aoir.
+* Dwarves live in the mountains around Firecloud Peak. They are prohibited by treaty with the elves from claiming the hills south of the great river.
+* The Eltireans live in floating isles hidden above the eastern side of the Flamebreath Desert.
+* Saurians live in the Ssyuriss Fenn.
+
+===== 2700 BW =====
+* Minotaurs settle at the northeastern area of Arkenova.
+
+===== 2600 BW =====
+* Empire of Anaktoran is founded.
+
+===== 2400 BW =====
+* Civil war erupts in Anaktoran, leaving hundreds of thousands dead. First dark age. Anaktoran eventually re-united at some point.
+
+===== Circa ~2000 BW =====
+* Galderien dynasty begins in Anaktoran; Anaktoran absorbs lesser the kingdom of Helletia. Capital moved to Gyaldon, later renamed as "The Imperial City".
+
+===== 1550 BW =====
+* Vaddyn returns to Arkenova from a distant land and builds the Academy for his small group of followers.
+
+===== 1185 BW - 1184 BW : '''Library of Kratemaqht''' =====
+* Cahal, a nobleman residing in the Imperial City of Anaktoran, leads an expedition against the dragon Arkinas. His party finds and slays the dragon. Cahal and his disciples secretly examine the corpse and Cahal extracts the Dragon Eye from the dead dragon's forehead. He dubs it the ''Dragon Stone''.
+* Lord Lenvan suspects Cahal of deception and kills him. Cahal uses the stone to resurrect himself as a Lich Lord, the first one ever recorded in Irdya's history.
+* War breaks out between the Empire of Anaktoran and Lich Lord Cahal. At first, the forces of the empire are victorious and Jevyan is crowned emperor. On his first day as emperor, he succumbs to old age and accepts Lich Lord Cahal's offer of becoming a Lich Lord. Antheia, granddaughter of Ariphon - advisor to the emperor — takes most of the remaining population and sets sail away from Anaktoran, leaving it to be devastated by the Lich Lords.
+
+===== 1182 BW =====
+* Human refugees from the destroyed empire of Anaktoran arrive at the western shores of Arkenova. Finding the land fit for colonisation, they start to build a new empire.
+
+===== 1180 BW - 986 BW =====
+* Another group of human refugees from the destroyed empire of Anaktoran arrive at the northern shores of the eastern Great Continent.
+* Refugees make contact with the Elves of Lin-Elens and are granted the plains east of the forest in exchanged for their allegiance and gold.
+* Refugees build a few colonies at various locations near the rivers, Cythring, Xalal and Silverrill.
+* Wandering magic-casters, former disciples of Vaddyn from Arkenova, arrive at the settlements and teach magic.
+* The refugee-turned-colonists rapidly expand their territory.
+* Ideological conflict about types of magic starts fracturing the new nation.
+* The opposing sides eventually consolidate around the cities of Noct and Diurna, on opposite sides of the river.
+
+===== 984 BW =====
+* The Empire of New Anaktoran, situated at the western portion of Arkenova, is founded.
+
+===== 865 BW =====
+* Mage scholars of New Anaktoran, sensing the strong elemental magic, leave the empire and enrol as residents and students of the Academy.
+
+===== 820 BW =====
+* Orcish Warlords invade the elven lands with their relentless hordes. Forests are torched and the elven population is killed en masse. The remnants of the elven society flee southwards and arrive at the Lands of the Burning Sky (a term used by the elves instead of desert) and build settlements.  
+
+===== 590 BW - 585 BW =====
+* Orcs wage a war against the mighty dragon Kor Vas. Saurians, trolls and goblins are drawn into the conflict.
+* Five years later, the orcs sign a peace treaty, but end up breaking it a year later.
+
+===== 460 BW =====
+* A human lord gathering his loyal followers, leaves the New Anaktoran Empire and journeys into the former home of the elves. They build a settlement at the heart of Arkenova, which eventually becomes the city of Verdanyn.
+
+===== 300 BW =====
+* Vampires attack and conquer Verdanyn, enslaving the populace.
+
+===== 280 BW - 278 BW =====
+* Kratemaqht, guardian of the Library at the ancient capital of Anaktoran, is visited by a mage, who had heard about the Library from a story, and the great dragon allows the mage and his students to live and study there.
+
+===== 210 BW =====
+* Lich Lord Cahal visits the library of ancient Anaktoran in search of a book, but the great dragon denies him any access. Enraged, the lich summons his minions, which Kratemaqht easily overcomes. Defeated, the lich lord vows to return and kill him.
+
+===== 209 BW - 198 BW =====
+* Kratemaqht forges an alliance of the various races in Argea and declares war on the Lich Lords.
+* After a long war, Lich Lord Cahal is destroyed, and Jevyan takes the remainder of his followers and sets sail to the Green Isle. 
+
+===== 180 BW =====
+* Dwarves from Firecloud Peak cross the Great River and colonise the hills of Triththa.
+
+===== 146 BW =====
+* The Ruby of Fire (the Dragon Eye) finds its way into the hands of Lich lord Lenvan.
+
+===== 120 BW - 119 BW =====
+* The Silver Drakes attack Firecloud peak and the surrounding area, drafting most of the saurians from Ssyuriss Fenn into their ranks.
+* The dwarven defences crumble under the combined offensive. When it becomes clear that the war is lost, the survivors evacuate to Triththa.
+* The saurians suffer the brunt of the casualties in the war and the remainder are enslaved by the Silver Drakes.
+* The saurians remaining in Ssyuriss Fenn are soundly defeated by a Triththan offensive in the following year. The remnants of their civilisation are a number of disorganised tribes.
+
+===== 62 BW =====
+* Lich Lord Lenvan is trapped beneath Greenwood Forest in the Green Isle; with him goes the Ruby of Fire.
+
+===== 10 BW - 07 BW =====
+* An unknown chain of events lead to the resurrection of Mor-Inal. Reawakened and still vexed of not being able to conquer the world, he vows to extinguish all life on Irdya.
+* The elves of Arkenova begin researching into greater magic spells deep inside their mountain temple and end up creating a portal to the world of Urvatha (known later as the Inferno). Demons arrive and are considered deities by the elves. Under the leadership of the demonic generals, the elves prepare to conquer the known lands, that is, Arkenova.
+
+===== 07 BW - 04 YW : Descent of the Eltireans =====
+* The Silver Drakes find a way to into the Flying Isles and realise its true value as a nesting ground.
+* Eltireans are attacked by endless legions of the Silver Drakes. High Council of the Eltireans decide to send colonists to the ground to establish settlements as a contingency plan. Eltire, a mage of Light possessing demigod-like powers, opens the gate to the Surface Realm and preparations for the exodus are made.
+* The first group of settlers establish a settlement near the eastern edge of Flamebreath Desert.
+
+===== 03 BW - 05 YW: Book I of the Lithian Codex (A Nation Divided) =====
+* Minotaur warlords split up land and contend against each other for dominance over their territory near Lake Aoir. Civil war between the minotaurs breaks out and eventually, three families achieve prominence: the Ranorm family in the south west (guardians of Lithia and the crystals), the Turan family in the north, and the Kimmor family in the east.
+* The civil war persists, Talok Ranorm, head of the Ranorm family is slain. His eldest son, Rilend, ascends as the new leader of the Ranorms.
+* Rilend leads a massive expedition and defeats the Turans and Kimmors.
+* In uniting the land, he is granted the title of Rilend Iron-fist and made the first king of Lithia (where the Lithian codex and the three crystals are kept).
+* The Minotaur Elder Zeal becomes the first apostle sacrificing his sight to be able to see his creator through the crystals.
+
+===== 10 YW =====
+* Meherab and Mahir, friends of Jahin are born.
+
+===== 11 YW =====
+* Jahin, later known as the Hero of Irdya, is born.
+
+===== 25 YW : Beginning of the Second Elemental War =====
+* Mor-Inal sends his minions throughout Irdya in order to subjugate it, starting the '''Second Elemental War'''.
+
+===== 30 YW - 35 YW : '''Hero of Irdya: Book I''' =====
+* Jahin and his friends escape the vampire-occupied Verdanyn and flee to the Academy, where they stay and learn for six months.
+* Relentless attacks orchestrated independently by the Drakes, Elves, Orcs, and the Vampires ignite the '''Great Arkenovan War'''.
+* Kor Vas recruits Jahin to find allies to aid him win the war. Drakes, Trolls, Minotaurs, and the Dwarves unite and form the Alliance of Light.
+* The Alliance of Light drives the vampires out of Arkenova, liberates Verdanyn, defeats the elves, rescues Jalin, forces the orcs, naga and saurian to surrender, and establishes a peace treaty with the Empire of New Anaktoran.
+
+===== 36 YW - ?? YW : Great Strife =====
+* Saurians residing at Firecloud Peak, revolt against the remaining drake overseers and liberate themselves from slavery.
+* Mor-Inal's wizards destroy the cities of Noct and Diurna. The survivors of the cities set their differences aside and band together as the Eventide. The Eventide army set out to extract their vengeance on Irdya.
+* Eltireans prepare for the defence against the Silver Drakes and the Minotaurs.
+* The Silver Drakes send a significant portion of their armies towards the Flying Isles.
+* Under the banner of Rilend Iron-fist, the minotaurs start expanding their territory. Lacking the expertise and materials to cross the Bitter Swamps, the Minotaurs send their armies north and southeastwards.
+* The dwarves of Triththa suddenly see themselves threatened by multiple militaristic belligerents.
+* The aforementioned events within the Silver Lands incite the '''Great Strife'''.
+
+===== Indeterminate Period : '''Epic of Jalin''' =====
+* Settlements of Gaelia and Marhelm northeast of the lands soon to be called Wesnoth fall. Demon Lord Vaxmos is ousted by Jalin, restoring relative peace. Jalin then sails west, stumbles upon Arkenova and consequently, gets captured and imprisoned by the elves.
+
+==== Southern Great Continent ====
+
+===== 23 YW =====
+* Human settlement of the Estmarks begins.
+
+===== 99 YW - 127 YW =====
+* Large increase in the use of magic in the Estmarks.
+
+===== 127 YW =====
+* An orcish invasion pushes the settlers south, out of the Estmarks, before the Grand Army of Wesnoth can arrive.
+* The settlers find a number of new settlements on the edge of the Kerlath hills and the Sandy Wastes.
+* The orcish horde is driven out by the numerically superior Grand Army of Wesnoth, but some tribes desert and colonise the areas furthest from wesnoth.
+* Contact between the settlers and the Kingdom of Wesnoth is lost completely.
+* The settlers acquire a distaste for magic, thinking its use brought on the orcish hordes.
+
+===== 395 YW - 398 YW =====
+* The various tribes around the Sandy Wastes desert are unified by the Khalifate, who arrive from southern Argea via the Farthest South. Magic is outlawed.
+
+===== 546 YW - 550 YW =====
+* Contact between the Khalifate and Wesnoth is reestablished, trade flourishes.
+
+===== 551 YW =====
+* Ravan is banished from the Khalifate for the use of magic.
+
+===Sources===
+----
+Information is derived from the following UMC add-ons:
+
+* Era of Strife
+* Library of Kratemaqht
+* Epic of Jalin
+* Nightmares of Meloen
+* War of Legends
+* Hero of Irdya
