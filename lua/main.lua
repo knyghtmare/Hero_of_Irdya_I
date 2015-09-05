@@ -1,2 +1,2 @@
 
-wesnoth.dofile '~add-ons/The_Legend_Begins/lua/rotate-area.lua'
+wesnoth.dofile '~add-ons/Hero_of_Irdya_I/lua/rotate-area.lua'
