@@ -56,10 +56,10 @@ function wesnoth.wml_actions.rotate_area(cfg)
 	local moved_units = { }
 	
 	for i = 1, radius_ do
-		helper.set_variable_array("__RA_excluded_locs", excluded_locs)
+		helper.set_variable_array("HOI_RA_excluded_locs", excluded_locs)
 		
 		local current_ring = wesnoth.get_locations {
-								{"not", { find_in = "__RA_excluded_locs" } },
+								{"not", { find_in = "HOI_RA_excluded_locs" } },
 								{"and", {
 											x = x_,
 											y = y_,
@@ -97,11 +97,11 @@ function wesnoth.wml_actions.rotate_area(cfg)
 	
 	if cfg.move_units ~= false then	
 		for i,unit in ipairs(moved_units) do
-			wesnoth.fire ( "store_unit", { { "filter", { id = unit.id } }, variable = "__RA_stored_units[" .. i .. "]", kill = true } )
+			wesnoth.fire ( "store_unit", { { "filter", { id = unit.id } }, variable = "HOI_RA_stored_units[" .. i .. "]", kill = true } )
 		end
 		
 		for i,unit in ipairs(moved_units) do
-			wesnoth.fire ( "unstore_unit", { variable = "__RA_stored_units[" .. i .. "]", x = unit.x, y = unit.y } )
+			wesnoth.fire ( "unstore_unit", { variable = "HOI_RA_stored_units[" .. i .. "]", x = unit.x, y = unit.y } )
 		end
 		
 		if cfg.fire_event ~= false then
