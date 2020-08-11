@@ -12,6 +12,8 @@ version 0.0.5\
 ---> Release for Wesnoth 1.15.x branch
 ---> Scenario 02: fixed some events triggering when they should not have.
 ---> Edited Stats for the Goblin Cutthroat
+---> Added scenarios 12, 13, 14 and 15
+---> Edited the divine enchantment buff
 
 version 0.0.4\
 ---> Adjusted scenario 02 to a single objective. Side 7 cannot kill side 5 and side 8 leaders now...\
