@@ -8,6 +8,13 @@
 
 \fs24 \cf0 \
 
+version 0.0.6\
+---> Scenario 13: Added new unit type for Durik
+---> Scenario 14: Added death events for the allied leaders
+---> Scenario 14x: Added Mahir back into the unit list
+---> Scenario 15: Recalled loyals and heroes for free
+---> Scenario 15: Fixed a semantic error with side 11
+
 version 0.0.5\
 ---> Release for Wesnoth 1.15.x branch
 ---> Scenario 02: fixed some events triggering when they should not have.
