@@ -14,6 +14,9 @@ version 0.0.6\
 ---> Scenario 14x: Added Mahir back into the unit list
 ---> Scenario 15: Recalled loyals and heroes for free
 ---> Scenario 15: Fixed a semantic error with side 11
+---> typo fixes, polishing of story text, etc
+---> Scenario 15: added micro AI content for this battle
+---> Added story text for cutscene 15x
 
 version 0.0.5\
 ---> Release for Wesnoth 1.15.x branch
