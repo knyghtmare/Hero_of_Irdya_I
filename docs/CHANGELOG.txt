@@ -8,17 +8,17 @@
 
 \fs24 \cf0 \
 
-version 0.0.6\
+version 0.6.0\
 ---> Scenario 13: Added new unit type for Durik
 ---> Scenario 14: Added death events for the allied leaders
 ---> Scenario 14x: Added Mahir back into the unit list
 ---> Scenario 15: Recalled loyals and heroes for free
----> Scenario 15: Fixed a semantic error with side 11
+---> Scenario 15: Fixed a semantic error with side 11, added flavour events
 ---> typo fixes, polishing of story text, etc
 ---> Scenario 15: added micro AI content for this battle
 ---> Added story text for cutscene 15x
 
-version 0.0.5\
+version 0.5.0\
 ---> Release for Wesnoth 1.15.x branch
 ---> Scenario 02: fixed some events triggering when they should not have.
 ---> Edited Stats for the Goblin Cutthroat
