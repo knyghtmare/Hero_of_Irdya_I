@@ -8,7 +8,7 @@
 
 \fs24 \cf0 \
 
-version 0.6.0\
+version 0.5.1\
 ---> Scenario 13: Added new unit type for Durik
 ---> Scenario 14: Added death events for the allied leaders
 ---> Scenario 14x: Added Mahir back into the unit list
