@@ -9,7 +9,8 @@
 \fs24 \cf0 \
 
 version 0.5.2:
----> Scenario 01: 
+---> Scenarios 05 and 06: Made it slightly easier by allowing level 2 recruits
+---> Scenario 01: adjusted outdated narrator messages
 ---> Added starting XP for the main hero characters
 ---> Scenario 02: Sides 3 and 6 leaders are now killable
 ---> Fixed Scenario 03 Lua error message bug
