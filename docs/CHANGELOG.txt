@@ -8,6 +8,15 @@
 
 \fs24 \cf0 \
 
+version 0.5.2:
+---> Scenario 01: 
+---> Added starting XP for the main hero characters
+---> Scenario 02: Sides 3 and 6 leaders are now killable
+---> Fixed Scenario 03 Lua error message bug
+    --> If you are curious, this was caused by the MAI wolves_multipack
+        and it triggered due to one wolf spawning behind the first ogre camp
+        being unable to join any pack clusters
+
 version 0.5.1\
 ---> Scenario 13: Added new unit type for Durik
 ---> Scenario 14: Added death events for the allied leaders
