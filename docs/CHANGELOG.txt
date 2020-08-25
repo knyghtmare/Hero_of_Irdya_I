@@ -19,6 +19,7 @@ version 0.5.2:
         being unable to join any pack clusters
 ---> Units:
     --> Fixed Ethereal Shadow ID
+    --> Troll Shamans can now advance to Troll Warbanners
 
 version 0.5.1\
 ---> Scenario 13: Added new unit type for Durik
