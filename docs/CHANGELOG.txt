@@ -17,6 +17,8 @@ version 0.5.2:
     --> If you are curious, this was caused by the MAI wolves_multipack
         and it triggered due to one wolf spawning behind the first ogre camp
         being unable to join any pack clusters
+---> Units:
+    --> Fixed Ethereal Shadow ID
 
 version 0.5.1\
 ---> Scenario 13: Added new unit type for Durik
