@@ -9,6 +9,7 @@
 \fs24 \cf0 \
 
 version 0.5.2:
+---> Scenario 06 and 14: Adjusted maps
 ---> All loyal units are now recalled in every battle scenario.
 ---> Scenarios 05 and 06: Made it slightly easier by allowing level 2 recruits
 ---> Scenario 01: adjusted outdated narrator messages
