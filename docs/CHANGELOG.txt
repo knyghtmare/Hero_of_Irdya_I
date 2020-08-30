@@ -9,6 +9,7 @@
 \fs24 \cf0 \
 
 version 0.5.3:
+---> Scenario 13: underground schedule now applied to proper locations on the map
 
 version 0.5.2:
 ---> Scenario 06 and 14: Adjusted maps
