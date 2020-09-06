@@ -11,6 +11,12 @@
 version 0.5.3:
 ---> Scenario 13: underground schedule now applied to proper locations on the map
 ---> Gryphon Masters can now advance to the Gryphon Thunderlords.
+---> Scenario 15: Jahin can now recruit Adepts of Light.
+---> Scenario 15: Jahin cannot recruit Pikemen anymore but he can recruit Spearmen.
+---> Javelineers can now advance to Javelin Masters.
+---> Spearman advancements:
+    Spearman ---> Pikeman --> Halberdier
+             \--> Javelineer --> Javelin Master
 
 version 0.5.2:
 ---> Scenario 06 and 14: Adjusted maps
