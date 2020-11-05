@@ -1,6 +1,7 @@
 KNOWN BUGS AND FEATURE REQUESTS:
 
 ---> Provide custom AMLA for Faria, Mahir, Meherab and Maliha
+---> Revise HARD difficulty
 
 1. Scenario 1
 ---> Review Goblin's dialogue after orcs are defeated
@@ -22,3 +23,5 @@ KNOWN BUGS AND FEATURE REQUESTS:
 ---> Review Ogre encounter dialogue
 ---> Consider resizing map after all units have entered the cave.
 ---> Revise the maps and create more opportunites for battles
+---> Add objective note to remind player to save gold for scenario 4
+---> Add Dark Invaders (units introduced later) to counter the "wisp invasion"
