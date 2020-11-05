@@ -22,3 +22,4 @@ Review Goblin's dialogue after orcs are defeated
 ---> Objectives are missing Turn Runs Out condition
 ---> Trolls immediately trigger sighted event
 ---> Review Ogre encounter dialogue
+---> Consider resizing map after all units have entered the cave.
