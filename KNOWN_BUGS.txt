@@ -1,0 +1,9 @@
+KNOWN BUGS:
+
+1. In Scenario 2 Towards the North
+a sighting dialogue triggers without the sighting condition being fulfilled.\
+
+2. In scenario 2 (Towards the North
+the AI behaves strangely and discards any given parameters. This is more prominent with side 6: the orcs don't move from the vicinity of their keep.
+
+Side 3 vampires need more vampires or gold. Preferably some level 3 guards or more.
