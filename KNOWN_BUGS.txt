@@ -3,14 +3,11 @@ KNOWN BUGS AND FEATURE REQUESTS:
 ---> Provide custom AMLA for Faria, Mahir, Meherab and Maliha
 
 1. Scenario 1
-Review Goblin's dialogue after orcs are defeated
+---> Review Goblin's dialogue after orcs are defeated
+---> Kojac missing his portrait
 
 2. In Scenario 2 Towards the North
----> a sighting dialogue triggers without the sighting condition being fulfilled.
----> Kojac missing his portrait
----> Remove Kojac's special overlay icon
 ---> Review Side 7 AI parameters
-
 ---> the AI behaves strangely and discards any given parameters. This is more prominent with side 6: the orcs don't move from the vicinity of their keep.
 ---> Side 3 vampires need more vampires or gold. Preferably some level 3 guards or more.
 ---> Saurian leader needs from reinforcements
@@ -18,6 +15,7 @@ Review Goblin's dialogue after orcs are defeated
 ---> Maybe even give the orcs some reinforcement units?
 
 2. Scenario 3
+---> Remove Kojac's special overlay icon
 ---> Enable multipacks MAI for side 7
 ---> Objectives are missing Turn Runs Out condition
 ---> Trolls immediately trigger sighted event
