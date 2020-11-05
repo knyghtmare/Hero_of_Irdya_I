@@ -9,6 +9,7 @@
 \fs24 \cf0 \
 
 version 0.5.3:
+---> Fix an animation glitch of the Elfin unit (pointed out by Konrad22)
 ---> Scenario 13: underground schedule now applied to proper locations on the map
 ---> Gryphon Masters can now advance to the Gryphon Thunderlords.
 ---> Scenario 15: Jahin can now recruit Adepts of Light.
