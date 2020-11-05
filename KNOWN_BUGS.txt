@@ -21,3 +21,4 @@ KNOWN BUGS AND FEATURE REQUESTS:
 ---> Trolls immediately trigger sighted event
 ---> Review Ogre encounter dialogue
 ---> Consider resizing map after all units have entered the cave.
+---> Revise the maps and create more opportunites for battles
