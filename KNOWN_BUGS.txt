@@ -1,9 +1,24 @@
-KNOWN BUGS:
+KNOWN BUGS AND FEATURE REQUESTS:
 
-1. In Scenario 2 Towards the North
-a sighting dialogue triggers without the sighting condition being fulfilled.\
+---> Provide custom AMLA for Faria, Mahir, Meherab and Maliha
 
-2. In scenario 2 (Towards the North
-the AI behaves strangely and discards any given parameters. This is more prominent with side 6: the orcs don't move from the vicinity of their keep.
+1. Scenario 1
+Review Goblin's dialogue after orcs are defeated
 
-Side 3 vampires need more vampires or gold. Preferably some level 3 guards or more.
+2. In Scenario 2 Towards the North
+---> a sighting dialogue triggers without the sighting condition being fulfilled.
+---> Kojac missing his portrait
+---> Remove Kojac's special overlay icon
+---> Review Side 7 AI parameters
+
+---> the AI behaves strangely and discards any given parameters. This is more prominent with side 6: the orcs don't move from the vicinity of their keep.
+---> Side 3 vampires need more vampires or gold. Preferably some level 3 guards or more.
+---> Saurian leader needs from reinforcements
+---> Vampire side3 needs more reinforcements
+---> Maybe even give the orcs some reinforcement units?
+
+2. Scenario 3
+---> Enable multipacks MAI for side 7
+---> Objectives are missing Turn Runs Out condition
+---> Trolls immediately trigger sighted event
+---> Review Ogre encounter dialogue
