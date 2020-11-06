@@ -25,3 +25,6 @@ KNOWN BUGS AND FEATURE REQUESTS:
 ---> Revise the maps and create more opportunites for battles
 ---> Add objective note to remind player to save gold for scenario 4
 ---> Add Dark Invaders (units introduced later) to counter the "wisp invasion"
+
+3. Scenario 5:
+---> Objective has no Turns Run Out objective
