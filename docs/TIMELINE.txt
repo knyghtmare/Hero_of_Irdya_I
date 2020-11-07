@@ -181,6 +181,9 @@ Located somewhere between the landmasses of Argea and the Great Continent and pe
 ===== 62 BW =====
 * Lich Lord Lenvan is trapped beneath Greenwood Forest in the Green Isle; with him goes the Ruby of Fire.
 
+===== 14 BW - 04 BW : '''Epic of Jalin''' =====
+* Settlements of Gaelia and Marhelm northeast of the lands soon to be called Wesnoth fall. Demon Lord Vaxmos is ousted by Jalin, restoring relative peace. Jalin then sails west, stumbles upon Arkenova and consequently, gets captured and imprisoned by the elves.
+
 ===== 10 BW - 07 BW =====
 * An unknown chain of events lead to the resurrection of Mor-Inal. Reawakened and still vexed of not being able to conquer the world, he vows to extinguish all life on Irdya.
 * The elves of Arkenova begin researching into greater magic spells deep inside their mountain temple and end up creating a portal to the world of Urvatha (known later as the Inferno). Demons arrive and are considered deities by the elves. Under the leadership of the demonic generals, the elves prepare to conquer the known lands, that is, Arkenova.
@@ -206,11 +209,18 @@ Located somewhere between the landmasses of Argea and the Great Continent and pe
 ===== 25 YW : Beginning of the Second Elemental War =====
 * Mor-Inal sends his minions throughout Irdya in order to subjugate it, starting the '''Second Elemental War'''.
 
+===== 29 YW : '''Sepulchre of Elran''' =====
+The ancient tomb of King Elran, a legendary king of the Lins-Elens, is raided by forces of the Dark Elementalist. Lady Gioviel of Lins-Elen is dispacthed with an army to investigate the mausoleum.
+
 ===== 30 YW - 35 YW : '''Hero of Irdya: Book I''' =====
 * Jahin and his friends escape the vampire-occupied Verdanyn and flee to the Academy, where they stay and learn for six months.
 * Relentless attacks orchestrated independently by the Drakes, Elves, Orcs, and the Vampires ignite the '''Great Arkenovan War'''.
 * Kor Vas recruits Jahin to find allies to aid him win the war. Drakes, Trolls, Minotaurs, and the Dwarves unite and form the Alliance of Light.
 * The Alliance of Light drives the vampires out of Arkenova, liberates Verdanyn, defeats the elves, rescues Jalin, forces the orcs, naga and saurian to surrender, and establishes a peace treaty with the Empire of New Anaktoran.
+
+===== 31 YW - 33 YW : '''Frigid Nightmares''' =====
+* The Windsong Foundation at the Farthest North or Lands of the Icy North is attacked by the minions of the Dark Elementalist.
+* Sauda of the Windsong Heretics rallies the Windsong and other races against the invaders.
 
 ===== 36 YW - ?? YW : Great Strife =====
 * Saurians residing at Firecloud Peak, revolt against the remaining drake overseers and liberate themselves from slavery.
@@ -221,8 +231,6 @@ Located somewhere between the landmasses of Argea and the Great Continent and pe
 * The dwarves of Triththa suddenly see themselves threatened by multiple militaristic belligerents.
 * The aforementioned events within the Silver Lands incite the '''Great Strife'''.
 
-===== Indeterminate Period : '''Epic of Jalin''' =====
-* Settlements of Gaelia and Marhelm northeast of the lands soon to be called Wesnoth fall. Demon Lord Vaxmos is ousted by Jalin, restoring relative peace. Jalin then sails west, stumbles upon Arkenova and consequently, gets captured and imprisoned by the elves.
 
 ==== Southern Great Continent ====
 
@@ -257,4 +265,6 @@ Information has been derived from the following UMC add-ons:
 * Epic of Jalin
 * Nightmares of Meloen
 * War of Legends
-* Hero of Irdya
+* Hero of Irdya: Book I
+* Sepulchre of Elran
+* Frigid Nightmares
