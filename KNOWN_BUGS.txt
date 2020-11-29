@@ -28,3 +28,15 @@ KNOWN BUGS AND FEATURE REQUESTS:
 
 3. Scenario 5:
 ---> Objective has no Turns Run Out objective
+---> Include new undead types introduced in WoL
+
+4. Scenario 6:
+---> Rebalance Scenario
+---> Include new undead types introduced in WoL
+---> Reduce strength of the arcane resistance buff
+---> Some auto-recalled loyals did not receive their arcane dmg conversion
+
+---> Specify note on Drake Burners and Clashers being added as recalls
+
+5. Scenario 8:
+---> Impossible to win the scenario on Challenging difficulty due to there actually being 80 units in total, whereas the requirement was 90
