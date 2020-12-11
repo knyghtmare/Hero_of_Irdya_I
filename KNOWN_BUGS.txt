@@ -3,10 +3,6 @@ KNOWN BUGS AND FEATURE REQUESTS:
 ---> Provide custom AMLA for Faria, Mahir, Meherab and Maliha
 ---> Revise HARD difficulty
 
-1. Scenario 1
----> Review Goblin's dialogue after orcs are defeated
----> Kojac missing his portrait
-
 2. In Scenario 2 Towards the North
 ---> Review Side 7 AI parameters
 ---> the AI behaves strangely and discards any given parameters. This is more prominent with side 6: the orcs don't move from the vicinity of their keep.
@@ -36,7 +32,3 @@ KNOWN BUGS AND FEATURE REQUESTS:
 ---> Reduce strength of the arcane resistance buff
 ---> Some auto-recalled loyals did not receive their arcane dmg conversion
 
----> Specify note on Drake Burners and Clashers being added as recalls
-
-5. Scenario 8:
----> Impossible to win the scenario on Challenging difficulty due to there actually being 80 units in total, whereas the requirement was 90
