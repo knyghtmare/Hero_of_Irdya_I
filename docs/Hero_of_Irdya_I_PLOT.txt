@@ -40,9 +40,13 @@ Episode II: The Arkenovan War:
 
         Side Story 1:
         (22) Meherab and Krog, and their troll and outlaw forces encounter ogre tribes and subdue them before advancing to the city of Cavann.
+        --> Jahin's troll recalls are added to Krog.
+        --> jahin will regain his troll recalls in scenario 20.
         (23) Assault on the city of Cavann. The forces of Mor-Inal appear out of nowhere. Krog escapes but Meherab is not able to escape and they are slaughtered to the last man/woman.
 
         Side Story 2:
-        (24) Mahir and Abrar, with the aid, of the dwarves, conquer the eastern vampire fortress. Mahir summons undead to combat the ever increasing number of vampires and turn the tides.
+        (24) Mahir and Abrar, with the aid, of the dwarves, conquer the eastern vampire fortress.
+        --> Jahin's dwarves and Minotaurs join Mahir and Abrar.
+        --> Jahin regains his dwarves and Minotaurs in Scenario 20.
         (25A) Minotaurs and Loyalists battle for control of the northern most vampire city. Forces of Mor-inal intervene.
         (25B) Dwarves and Loyalists battle for control of southern vampire fortress. Nightmares and Aberrants ambush them en masse. 
