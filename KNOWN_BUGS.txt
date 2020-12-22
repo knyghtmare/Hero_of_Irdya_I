@@ -3,14 +3,6 @@ KNOWN BUGS AND FEATURE REQUESTS:
 ---> Provide custom AMLA for Faria, Mahir, Meherab and Maliha
 ---> Revise HARD difficulty
 
-2. In Scenario 2 Towards the North
----> Review Side 7 AI parameters
----> the AI behaves strangely and discards any given parameters. This is more prominent with side 6: the orcs don't move from the vicinity of their keep.
----> Side 3 vampires need more vampires or gold. Preferably some level 3 guards or more.
----> Saurian leader needs from reinforcements
----> Vampire side3 needs more reinforcements
----> Maybe even give the orcs some reinforcement units?
-
 2. Scenario 3
 ---> Remove Kojac's special overlay icon
 ---> Enable multipacks MAI for side 7
