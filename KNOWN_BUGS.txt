@@ -5,14 +5,9 @@ KNOWN BUGS AND FEATURE REQUESTS:
 
 2. Scenario 3
 ---> Remove Kojac's special overlay icon
----> Enable multipacks MAI for side 7
----> Objectives are missing Turn Runs Out condition
----> Trolls immediately trigger sighted event
----> Review Ogre encounter dialogue
 ---> Consider resizing map after all units have entered the cave.
 ---> Revise the maps and create more opportunites for battles
 ---> Add objective note to remind player to save gold for scenario 4
----> Add Dark Invaders (units introduced later) to counter the "wisp invasion"
 
 3. Scenario 5:
 ---> Objective has no Turns Run Out objective
