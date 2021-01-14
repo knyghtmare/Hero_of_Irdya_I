@@ -4,10 +4,8 @@ KNOWN BUGS AND FEATURE REQUESTS:
 ---> Revise HARD difficulty
 
 2. Scenario 3
----> Remove Kojac's special overlay icon
 ---> Consider resizing map after all units have entered the cave.
 ---> Revise the maps and create more opportunites for battles
----> Add objective note to remind player to save gold for scenario 4
 
 3. Scenario 5:
 ---> Objective has no Turns Run Out objective
