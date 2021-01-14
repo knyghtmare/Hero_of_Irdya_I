@@ -7,10 +7,6 @@ KNOWN BUGS AND FEATURE REQUESTS:
 ---> Consider resizing map after all units have entered the cave.
 ---> Revise the maps and create more opportunites for battles
 
-3. Scenario 5:
----> Objective has no Turns Run Out objective
----> Include new undead types introduced in WoL
-
 4. Scenario 6:
 ---> Rebalance Scenario
 ---> Include new undead types introduced in WoL
