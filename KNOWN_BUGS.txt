@@ -14,6 +14,5 @@ KNOWN BUGS AND FEATURE REQUESTS:
 4. Scenario 6:
 ---> Rebalance Scenario
 ---> Include new undead types introduced in WoL
----> Reduce strength of the arcane resistance buff
 ---> Some auto-recalled loyals did not receive their arcane dmg conversion
 
