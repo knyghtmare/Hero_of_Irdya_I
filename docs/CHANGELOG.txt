@@ -8,6 +8,12 @@
 
 \fs24 \cf0 \
 
+version 0.5.3.2:
+---> Scenario 8: rebalanced and updated
+---> Scenario 6: special bonuses added
+    (NO, I am not spoiling it. Go play it and find out what I did)
+--->
+
 version 0.5.3:
 ---> Scenario 1: Difficulty has been buffed slightly.
 ---> Scenario 8: Kill counter has been fixed for HARD difficulty (pointed out by Konrad2)
