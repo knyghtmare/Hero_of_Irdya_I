@@ -219,9 +219,8 @@ local _ = wesnoth.textdomain "wesnoth-Naia"
 -- NOTE: The radio button ids must match the keys of ADV_FILTERS above.
 local adv_filter_grid = {
 	T.row {
-		-- I need to consult with the original code of this
+		-- I need to consult with the original coder of this
 		-- to ascertain why none of these work (at all)
-		--[[
 		T.column {
 			border = "all",
 			border_size = 5,
@@ -231,7 +230,7 @@ local adv_filter_grid = {
 			},
 		},
 		
-
+		--[[
 		T.column {
 			border = "all",
 			border_size = 5,
