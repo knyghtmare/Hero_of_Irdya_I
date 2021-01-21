@@ -221,6 +221,7 @@ local adv_filter_grid = {
 	T.row {
 		-- I need to consult with the original coder of this
 		-- to ascertain why none of these work (at all)
+		--[[
 		T.column {
 			border = "all",
 			border_size = 5,
@@ -229,8 +230,7 @@ local adv_filter_grid = {
 				label = _("advancements^Display:")
 			},
 		},
-		
-		--[[
+		]]
 		T.column {
 			border = "all",
 			border_size = 5,
@@ -240,7 +240,7 @@ local adv_filter_grid = {
 				label = _("advancements^Acquired")
 			},
 		},
-
+		
 		T.column {
 			border = "all",
 			border_size = 5,
@@ -260,7 +260,7 @@ local adv_filter_grid = {
 				label = _("advancements^All")
 			},
 		}
-		]]
+		
 	}
 }
 
