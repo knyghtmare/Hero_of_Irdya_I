@@ -8,6 +8,13 @@
 
 \fs24 \cf0 \
 
+version 0.5.3.4:
+---> Fixed a severity error which allowed 
+     multiple instances of the AMLA system
+     to activate
+---> Fixed Maliha accidentally getting Mahir's AMLA
+     (my bad, sorry)
+
 version 0.5.3.3:
 ---> AMLA UI system
 ---> new units
