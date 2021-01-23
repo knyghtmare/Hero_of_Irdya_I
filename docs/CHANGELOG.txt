@@ -13,6 +13,7 @@ version 0.5.3.3:
 ---> new units
 ---> AMLA implemented for all hero and loyal units
 ---> special bonus given in Scenario 10 
+---> Updated credits/about.cfg
 
 version 0.5.3.2:
 ---> Scenario 8: rebalanced and updated
