@@ -8,6 +8,10 @@
 
 \fs24 \cf0 \
 
+version 0.5.3.6:
+---> Scenario 02: prevent premature death of allies
+---> Woodlanders: several units buffed slightly
+
 version 0.5.3.5:
 ---> Scenario 03: decreased turn limit to 40/35/32
 ---> Fixed another issue with the AMLA system
