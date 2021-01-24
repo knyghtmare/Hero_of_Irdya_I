@@ -8,6 +8,9 @@
 
 \fs24 \cf0 \
 
+version 0.5.3.7:
+---> Scenario 02: buff allied sides
+
 version 0.5.3.6:
 ---> Scenario 02: prevent premature death of allies
 ---> Woodlanders: several units buffed slightly
