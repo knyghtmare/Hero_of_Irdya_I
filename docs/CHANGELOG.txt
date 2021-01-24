@@ -10,6 +10,8 @@
 
 version 0.5.3.5:
 ---> Scenario 03: decreased turn limit to 40/35/32
+---> Fixed another issue with the AMLA system
+    (I am starting to hate this feature now)
 
 version 0.5.3.4:
 ---> Fixed a severity error which allowed 
