@@ -16,6 +16,7 @@ version 0.5.3.7:
 ---> AMLA: fixed Krog not getting an XP increment and HP full heal
     when getting his terror ability
 ---> Fix Nog not getting his max XP reduction when he "ascends"
+---> Scenario 06: Fixed some loyals/heroes not getting arcane melee
 
 version 0.5.3.6:
 ---> Scenario 02: prevent premature death of allies
