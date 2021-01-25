@@ -8,6 +8,8 @@
 
 \fs24 \cf0 \
 
+version 0.5.3.8:
+
 version 0.5.3.7:
 ---> Scenario 02: buff allied sides, edit AI of side 6
 ---> Scenario 03: give note about recall cost reductions
