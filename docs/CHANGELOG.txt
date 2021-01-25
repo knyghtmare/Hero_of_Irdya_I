@@ -13,6 +13,9 @@ version 0.5.3.7:
 ---> Scenario 03: give note about recall cost reductions
 ---> Loyal Goblin Lancer gets his proper icon for Javelin AMLA
 ---> Scenario 01: give note about AMLA UI system
+---> AMLA: fixed Krog not getting an XP increment and HP full heal
+    when getting his terror ability
+---> Fix Nog not getting his max XP reduction when he "ascends"
 
 version 0.5.3.6:
 ---> Scenario 02: prevent premature death of allies
