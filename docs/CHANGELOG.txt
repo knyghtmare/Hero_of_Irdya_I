@@ -8,6 +8,9 @@
 
 \fs24 \cf0 \
 
+version 0.5.3.9:
+---> Commanding Presence buff has been adjusted to not scroll to every unit
+
 version 0.5.3.8:
 ---> Scenario 06: Fixed an instance of an enemy leader sniping you from the rear
 ---> Scenario 06: fixed a bug which caused the special bonus to become a death trap (Sorry)
