@@ -11,6 +11,7 @@
 version 0.5.3.8:
 ---> Scenario 06: Fixed an instance of an enemy leader sniping you from the rear
 ---> Scenario 06: fixed a bug which caused the special bonus to become a death trap (Sorry)
+---> Scenario 06: Prevented the exploit of nuking the boss by turn 5 from occuring.
 
 version 0.5.3.7:
 ---> Scenario 02: buff allied sides, edit AI of side 6
