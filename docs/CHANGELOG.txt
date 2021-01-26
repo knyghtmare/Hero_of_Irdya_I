@@ -13,6 +13,8 @@ version 0.5.3.8:
 ---> Scenario 06: fixed a bug which caused the special bonus to become a death trap (Sorry)
 ---> Scenario 06: Prevented the exploit of nuking the boss by turn 5 from occuring.
 ---> Scenario 02: modified enemy sides to NOT spam poisoners.
+---> Scenario 06: Updated map to make the special bonus achievable
+---> Fix for the Frost Nova event bug
 
 version 0.5.3.7:
 ---> Scenario 02: buff allied sides, edit AI of side 6
