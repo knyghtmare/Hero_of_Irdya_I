@@ -10,6 +10,10 @@
 
 version 0.5.3.9:
 ---> Commanding Presence buff has been adjusted to not scroll to every unit
+---> S09: more challenge added
+---> S10: fixed some loyals not getting arcane melee buff
+---> AMLA system: Crylix now gets fullhealed+cured of CC effects when she picks hero
+    swamp prowl ability advancement
 
 version 0.5.3.8:
 ---> Scenario 06: Fixed an instance of an enemy leader sniping you from the rear
