@@ -18,6 +18,7 @@ version 0.5.3.9:
 ---> S10:
     --> Fixed certain hexes inside the dungeon not being inside the ToD area
     --> Buffed the gatekeeper
+    --> Made the boss less dumb (damn this AI)
 
 version 0.5.3.8:
 ---> Scenario 06: Fixed an instance of an enemy leader sniping you from the rear
