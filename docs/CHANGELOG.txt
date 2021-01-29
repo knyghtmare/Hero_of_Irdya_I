@@ -15,6 +15,9 @@ version 0.5.3.9:
 ---> AMLA system: Crylix now gets fullhealed+cured of CC effects when she picks hero
     swamp prowl ability advancement
 ---> S09: Fixed the infamous wesnoth 1.15.9 modifications bug with one side
+---> S10:
+    --> Fixed certain hexes inside the dungeon not being inside the ToD area
+    --> Buffed the gatekeeper
 
 version 0.5.3.8:
 ---> Scenario 06: Fixed an instance of an enemy leader sniping you from the rear
