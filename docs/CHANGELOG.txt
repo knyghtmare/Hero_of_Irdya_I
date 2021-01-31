@@ -19,6 +19,11 @@ version 0.5.3.9:
     --> Fixed certain hexes inside the dungeon not being inside the ToD area
     --> Buffed the gatekeeper
     --> Made the boss less dumb (damn this AI)
+---> S11: adjusted AI params
+    --> the AI no longer has any spread_poison CA
+        --> Since including makes the enemy side
+            amazingly stubborn
+    --> adjusted turn_limit to 24/22/20
 
 version 0.5.3.8:
 ---> Scenario 06: Fixed an instance of an enemy leader sniping you from the rear
