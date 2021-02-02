@@ -45,12 +45,12 @@ end
 
 local ca_boss = {}
 
-function ca_hunter:evaluation(cfg)
+function ca_boss:evaluation(cfg)
     if get_level_boss(cfg) then return cfg.ca_score end
     return 0
 end
 
-function ca_boss_behaviour:execution(cfg)
+function ca_boss:execution(cfg)
     -- Hunter does a random wander in area given by @cfg.hunting_ground until it finds
     -- and kills an enemy unit, then retreats to position given by @cfg.home_loc or @cfg.home_x/y
     -- for @cfg.rest_turns turns, or until fully healed
@@ -197,4 +197,4 @@ function ca_boss_behaviour:execution(cfg)
     MAIUV.set_mai_unit_variables(hunter, cfg.ai_id, hunter_vars)
 end
 
-return ca_hunter
+return ca_boss
