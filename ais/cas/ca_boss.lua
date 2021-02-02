@@ -54,6 +54,9 @@ function ca_boss:execution(cfg)
     -- Scenario Boss does a random wander in area given by @cfg.wandering_ground until it finds
     -- and kills an enemy unit
     -- and then rinse and repeat
+    -- note most of this is just a subset of the hunter Micro AI
+    -- but with no home/returning things
+    -- the boss kills and eliminates anything in the defined arena
 
     local boss = get_level_boss(cfg)
     local boss_vars = MAIUV.get_mai_unit_variables(boss, cfg.ai_id)
