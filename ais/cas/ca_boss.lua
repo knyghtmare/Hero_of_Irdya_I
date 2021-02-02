@@ -54,7 +54,8 @@ function ca_boss:execution(cfg)
     -- Scenario Boss does a random wander in area given by @cfg.wandering_ground until it finds
     -- and kills an enemy unit
     -- and then rinse and repeat
-    -- note most of this is just a subset of the hunter Micro AI
+
+    -- note most of this is just edits of the hunter Micro AI
     -- but with no home/returning things
     -- the boss kills and eliminates anything in the defined arena
 
@@ -122,7 +123,7 @@ function ca_boss:execution(cfg)
             --boss_vars.boss_status = 'returning'
             -- Lord-Knightmare: here, we just set it back to nil
             -- so that the boss_status is not set and then repeats
-            -- from exterior if condition (line 62)
+            -- from the exterior if condition (line 66)
             boss_vars.boss_status = nil
             MAIUV.set_mai_unit_variables(boss, cfg.ai_id, boss_vars)
 
@@ -134,6 +135,8 @@ function ca_boss:execution(cfg)
         return
     end
 
+    -- LK: these are not needed as we want this boss unit to be
+    -- an eliminator
     -- If we got here, this means the boss is either returning, or resting
     --[[
     if (boss_vars.boss_status == 'returning') then
