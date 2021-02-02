@@ -116,18 +116,23 @@ function ca_boss:execution(cfg)
         -- If the enemy was killed, boss returns home
         if boss and boss.valid and (attack_status == 'killed') then
             boss_vars.goal_x, boss_vars.goal_y = nil, nil
-            boss_vars.boss_status = 'returning'
+            --boss_vars.boss_status = 'returning'
+            -- Lord-Knightmare: here, we just set it back to nil
+            -- so that the boss_status is not set and then repeats
+            -- from exterior if condition (line 62)
+            boss_vars.boss_status = nil
             MAIUV.set_mai_unit_variables(boss, cfg.ai_id, boss_vars)
 
-            if cfg.show_messages then
-                wesnoth.wml_actions.message { speaker = boss.id, message = 'Now that I have eaten, I will go back home.' }
-            end
+            --if cfg.show_messages then
+            --    wesnoth.wml_actions.message { speaker = boss.id, message = 'Now that I have eaten, I will go back home.' }
+            --end
         end
 
         return
     end
 
     -- If we got here, this means the boss is either returning, or resting
+    --[[
     if (boss_vars.boss_status == 'returning') then
         local home_loc = AH.get_named_loc_xy('home', cfg)
         goto_x, goto_y = wesnoth.find_vacant_tile(home_loc[1], home_loc[2], boss)
@@ -190,6 +195,7 @@ function ca_boss:execution(cfg)
         end
         return
     end
+    ]]
 
     -- In principle we should never get here, but just in case something got changed in WML:
     -- Reset variable, so that boss goes boss on next turn
