@@ -5,8 +5,10 @@ It's called the Boss Micro AI and
 its purpose to exhibit behaviour analogous
 to a dungeon/scenario boss
 
-What might it do?
+What might it does?
 1. Wander around a specified area (boss arena)
 2. Approach and attack the weakest enemies.
-3. Prefer a specific target (typically the player's leader unit)
-4. Kill and reset wandering mode
+3. Kill and reset wandering mode
+
+Future:
+1. Prefer a specific target (typically the player's leader unit)
