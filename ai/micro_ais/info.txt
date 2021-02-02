@@ -1,12 +1,12 @@
 This is just my attempt at coding my own
-Micro AI
+Custom Micro AI
 
 It's called the Boss Micro AI and
 its purpose to exhibit behaviour analogous
 to a dungeon/scenario boss
 
-What might it does?
-1. Wander around a specified area (boss arena)
+What it does?
+1. Makes the 'boss' wander around a specified area (boss arena)
 2. Approach and attack the weakest enemies.
 3. Kill and reset wandering mode
 
