@@ -55,7 +55,7 @@ function ca_boss:execution(cfg)
     -- and kills an enemy unit
     -- and then rinse and repeat
 
-    -- note most of this is just edits of the hunter Micro AI
+    -- note most of this is just some edits of the hunter Micro AI
     -- but with no home/returning things
     -- the boss kills and eliminates anything in the defined arena
 
