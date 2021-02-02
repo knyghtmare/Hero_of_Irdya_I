@@ -9,9 +9,12 @@ function wesnoth.micro_ais.boss(cfg)
 	end
 	local required_keys = {}
 	local optional_keys = { "id", "[filter]", "[filter_location]" }
+	-- Tahsin Jahin: So, I had to give the entire path to the CA file
+	-- as the add-on procedure for micro AI addition is rather
+	-- messy
 	local CA_parms = {
 		ai_id = 'mai_boss',
-		{ ca_id = "move", location = 'ca_boss.lua', score = cfg.ca_score or 300000 }
+		{ ca_id = "move", location = '~add-ons/Hero_of_Irdya_I/ai/micro_ais/cas/ca_boss.lua', score = cfg.ca_score or 300000 }
 	}
     return required_keys, optional_keys, CA_parms
 end
