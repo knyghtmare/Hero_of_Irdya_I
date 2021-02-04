@@ -8,6 +8,10 @@
 
 \fs24 \cf0 \
 
+version 0.5.3.10:
+---> S12: complete overhaul
+---> S12X: 
+
 version 0.5.3.9:
 ---> Commanding Presence buff has been adjusted to not scroll to every unit
 ---> S09: more challenge added
