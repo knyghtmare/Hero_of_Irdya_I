@@ -9,8 +9,10 @@
 \fs24 \cf0 \
 
 version 0.5.3.10:
+---> S14: full revision as it was too easy
+---> S13: revision
 ---> S12: complete overhaul
----> S12X: adding a missing portrait 
+---> S12X: added a missing portrait 
 
 version 0.5.3.9:
 ---> Commanding Presence buff has been adjusted to not scroll to every unit
