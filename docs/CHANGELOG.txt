@@ -13,6 +13,7 @@ version 0.5.3.10:
 ---> S13: revision
 ---> S12: complete overhaul
 ---> S12X: added a missing portrait 
+---> S15: grand revision
 
 version 0.5.3.9:
 ---> Commanding Presence buff has been adjusted to not scroll to every unit
