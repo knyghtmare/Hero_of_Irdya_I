@@ -1,14 +1,2 @@
-KNOWN BUGS AND FEATURE REQUESTS:
 
----> Provide custom AMLA for Faria, Mahir, Meherab and Maliha
----> Revise HARD difficulty
-
-2. Scenario 3
----> Consider resizing map after all units have entered the cave.
----> Revise the maps and create more opportunites for battles
-
-4. Scenario 6:
----> Rebalance Scenario
----> Include new undead types introduced in WoL
----> Some auto-recalled loyals did not receive their arcane dmg conversion
 
