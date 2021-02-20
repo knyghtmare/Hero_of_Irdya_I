@@ -9,5 +9,5 @@ end
 function narrator_message_mysterious(txt)
     -- behave like a message tag
     -- with speaker fixed
-    wesnoth.fire("message", { speaker = narrator, image=, message = txt.txt_msg })
+    wesnoth.fire("message", { speaker = narrator, image= misc/blank-hex.png, caption = "Mysterious Booming Voice" , message = txt.txt_msg })
 end
