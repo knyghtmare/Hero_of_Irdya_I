@@ -8,6 +8,11 @@
 
 \fs24 \cf0 \
 
+version 0.5.3.12:
+---> S03: fixed wolf spawner from overspawning wolves
+---> S16A: added
+---> S17A: added
+
 version 0.5.3.10:
 ---> S14: full revision as it was too easy
 ---> S13: revision
