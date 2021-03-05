@@ -12,6 +12,7 @@ version 0.5.3.12:
 ---> S03: fixed wolf spawner from overspawning wolves
 ---> S16A: Night of Horrors added
 ---> S17A: Amidst the Sands added
+---> Fixed preload event error message
 
 version 0.5.3.10:
 ---> S14: full revision as it was too easy
