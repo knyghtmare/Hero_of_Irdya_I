@@ -8,3 +8,4 @@ Review by Smiley J
 6. S13: give more spacious starting position for Jahin
 7. S17A: give spirit bosses 100% drain on melee
 8. S13: Alter boss roaming locations to ensure they don't fight each other.
+9. Give Varawiel has AMLA
