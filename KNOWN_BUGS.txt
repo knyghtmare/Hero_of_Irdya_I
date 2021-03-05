@@ -6,3 +6,5 @@ Review by Smiley J
 4. Review axe item in S10 and perhaps make the wielder a loyal? Or give the unit a special overlay
 5. Give unique dialogue in S12 on hero sacrifice
 6. S13: give more spacious starting position for Jahin
+7. S17A: give spirit bosses 100% drain on melee
+8. S13: Alter boss roaming locations to ensure they don't fight each other.
