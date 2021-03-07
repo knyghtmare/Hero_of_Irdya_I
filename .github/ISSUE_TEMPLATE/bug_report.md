@@ -1,6 +1,6 @@
 ---
 name: Bug report
-about: Create a report to help us improve the game
+about: Create a report to help knyghtmare improve Hero of Irdya I
 title: ''
 labels: 'bug'
 assignees: ''
