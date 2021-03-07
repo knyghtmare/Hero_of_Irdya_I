@@ -13,6 +13,8 @@ version 0.5.3.12:
 ---> S16A: Night of Horrors added
 ---> S17A: Amidst the Sands added
 ---> Fixed preload event error message
+---> S13: gave Jahin a bigger starting area
+    (on the condition that all his loyals have survived)
 
 version 0.5.3.10:
 ---> S14: full revision as it was too easy
