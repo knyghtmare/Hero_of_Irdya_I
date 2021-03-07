@@ -2,9 +2,9 @@ Hero of Irdya: Book 1
 =====================
 
 Hero of Irdya I is a DLC for the turn-based strategy game, the [Battle for Wesnoth](https://www.wesnoth.org).
-This is a single-player campaign trilogy that centres around Jahin, the greatest hero Irdya had ever known...
+This is a single-player campaign that centres around Jahin, the greatest hero Irdya had ever known...
 
-Installing 'Hero of Irdya I'
+Installing _Hero of Irdya I_
 --------------------------------------------------------------------------------
 Released versions of Hero of Irdya I should be installed from Battle for Wesnoth’s
 official add-ons servers, via Battle for Wesnoth’s built-in add-ons manager,
