@@ -1,6 +1,6 @@
 ---
 name: Feature Request
-about: Request a new feature to enhance the game
+about: Request a new feature to enhance Hero of Irdya I
 title: ''
 labels: 'enhancement'
 assignees: ''
