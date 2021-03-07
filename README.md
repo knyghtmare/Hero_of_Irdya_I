@@ -12,7 +12,7 @@ which can be accessed via the “Add-ons” button in the main menu.
 
 Players who know how to use [Github](https://github.com) may clone my Git repository, which is to
 be found on my [GitHub](https://github.com/knyghtmare/Hero_of_Irdya_I) repository, into Battle for Wesnoth’s
-`[userdata](http://wiki.wesnoth.org/EditingWesnoth#Where_is_my_user_data_directory.3F)/data/add-ons/” directory`
+`[userdata](http://wiki.wesnoth.org/EditingWesnoth#Where_is_my_user_data_directory.3F)/data/add-ons/` directory
 The benefits of this is that you can try out the unreleased versions and let the author know of any bugs.
 
 Reporting issues
