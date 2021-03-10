@@ -12,5 +12,4 @@ Review by Smiley J
 10. S14: give elf and demons more units and gold
 
 Review by Jotender
-1. S3: control wolf spawn count from spiralling
 2. S4: increment enemy strength
