@@ -15,6 +15,7 @@ version 0.5.3.12:
 ---> Fixed preload event error message
 ---> S13: gave Jahin a bigger starting area
     (on the condition that all his loyals have survived)
+---> Code optimisation to zero log warnings
 
 version 0.5.3.10:
 ---> S14: full revision as it was too easy
