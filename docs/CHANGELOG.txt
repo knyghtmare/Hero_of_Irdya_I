@@ -16,6 +16,7 @@ version 0.5.3.12:
 ---> S13: gave Jahin a bigger starting area
     (on the condition that all his loyals have survived)
 ---> Code optimisation to zero log warnings
+---> All side 1 units at maxed lvl are allowed AMLA now. Enjoy.
 
 version 0.5.3.10:
 ---> S14: full revision as it was too easy
