@@ -16,7 +16,8 @@ version 0.5.3.12:
 ---> S13: gave Jahin a bigger starting area
     (on the condition that all his loyals have survived)
 ---> Code optimisation to zero log warnings
----> All side 1 units at maxed lvl are allowed AMLA now. Enjoy.
+---> All side 1 units at maxed lvl are allowed custom AMLA now. Enjoy.
+---> Drake Gliders have now been given a secondary advancement
 
 version 0.5.3.10:
 ---> S14: full revision as it was too easy
