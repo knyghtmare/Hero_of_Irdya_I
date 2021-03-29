@@ -13,3 +13,6 @@ Review by Smiley J
 
 Review by Jotender
 2. S4: increment enemy strength
+
+To-do:
+1. Ensure Dwarvish Berserkers and Minotaur Behemoths are persistent recruits.
