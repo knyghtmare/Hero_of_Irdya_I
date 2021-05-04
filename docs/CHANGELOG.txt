@@ -3,6 +3,7 @@ v0.5.3.13:
 ---> S1 slightly reduce difficulty
 ---> added an easter egg
 ---> All scenarios: slight increment in difficulty
+---> multiple typo fixes
 
 version 0.5.3.12:
 ---> S03: fixed wolf spawner from overspawning wolves
