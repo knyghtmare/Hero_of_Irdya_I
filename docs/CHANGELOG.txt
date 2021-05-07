@@ -6,6 +6,8 @@ v0.5.3.13:
 ---> multiple typo fixes
 ---> S2: adjusted turn limits
 ---> S2: fixed bugs
+---> S3: added a handholding note since players have proven
+     to be incapable of understanding simple English         
 
 version 0.5.3.12:
 ---> S03: fixed wolf spawner from overspawning wolves
