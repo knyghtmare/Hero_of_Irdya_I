@@ -10,7 +10,8 @@ v0.5.3.13:
      to be incapable of understanding simple English 
 ---> S3: added easter egg 
 ---> finally fixed the ellipse image not found thing
-     (special thanks to Ravana for clarifying this one)     
+     (special thanks to Ravana for clarifying this one)
+---> S4: added an easter egg (enjoy finding this one)
 
 version 0.5.3.12:
 ---> S03: fixed wolf spawner from overspawning wolves
