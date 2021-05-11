@@ -10,8 +10,5 @@ Review by Smiley J
 8. S13: Alter boss roaming locations to ensure they don't fight each other.
 10. S14: give elf and demons more units and gold
 
-Review by Jotender
-2. S4: increment enemy strength
-
 To-do:
 1. Ensure Dwarvish Berserkers and Minotaur Behemoths are persistent recruits.
