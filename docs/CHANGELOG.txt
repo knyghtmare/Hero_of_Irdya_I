@@ -13,6 +13,9 @@ v0.5.3.13:
      (special thanks to Ravana for clarifying this one)
 ---> S4: added an easter egg (enjoy finding this one)
 ---> S4: added an extra keep
+---> S5: added Troll Warbanners to allied recruit list
+---> S5: added more enemy types
+---> S5: added more player gold as compensation for difficulty spike
 
 version 0.5.3.12:
 ---> S03: fixed wolf spawner from overspawning wolves
