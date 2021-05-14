@@ -16,6 +16,9 @@ v0.5.3.13:
 ---> S5: added Troll Warbanners to allied recruit list
 ---> S5: added more enemy types
 ---> S5: added more player gold as compensation for difficulty spike
+---> S6: added a special note of tactical advice
+    mostly because...well, you all seem very stupid to be wiped so bad here.
+
 
 version 0.5.3.12:
 ---> S03: fixed wolf spawner from overspawning wolves
