@@ -1,6 +1,7 @@
 v0.5.3.14:
 --> S6: fixed that unstored unit not found message
 --> Fixed Faria's missing ellipse
+--> S7: more enemy variety for the The Horde sides and updated deprecated code
 
 v0.5.3.13:
 ---> Added in a lot of enemy variety
