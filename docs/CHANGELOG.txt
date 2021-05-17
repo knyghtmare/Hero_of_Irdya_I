@@ -3,6 +3,7 @@ v0.5.3.14:
 --> Fixed Faria's missing ellipse
 --> S7: more enemy variety for the The Horde sides and updated deprecated code
 --> Saurian Skirmishers can now advance to Saurian Spearthrowers
+--> S8: added a special item somewhere
 
 v0.5.3.13:
 ---> Added in a lot of enemy variety
