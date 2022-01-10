@@ -7,8 +7,9 @@ to a dungeon/scenario boss
 
 What it does?
 1. Makes the 'boss' wander around a specified area (boss arena)
-2. Approach and attack the weakest enemies.
-3. Kill and reset wandering mode
+2. If enemy is within the defined area, target weakest enemy.
+3. Approach and attack the weakest enemy.
+4. Kill and reset to wandering mode.
 
 Future:
 1. Prefer a specific target (typically the player's leader unit)
